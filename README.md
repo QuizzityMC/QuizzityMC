@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on all sorts of things!
 - 📫 How to reach me - on my chat app, https://chat.quizzity.tech/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like Pandas
 
 <!---
 QuizzityMC/QuizzityMC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
